@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "name": "Vanguard Booster Pack 01 Fated Clash",
+    "detail": "Vanguard Booster Pack 01: Fated Clash",
+    "coverimage": "src/img/Vanguard Booster Pack 01 Fated Clash.jpg",
+    "price": "$29.99"
+  },
+  {
+    "id": 2,
+    "name": "Vanguard Booster Pack 02: Illusionless Strife",
+    "detail": "Vanguard Booster Pack 02: Illusionless Strife",
+    "coverimage": "src/img/Vanguard Booster Pack 02 Illusionless Strife.jpg",
+    "price": "$29.99"
+  },
+  {
+    "id": 3,
+    "name": "Vanguard Booster Pack 03: Dimensional Transcendence",
+    "detail": "Vanguard Booster Pack 03: Dimensional Transcendence",
+    "coverimage": "src/img/Vanguard Booster Pack 03 Dimensional Transcendence.jpg",
+    "price": "$29.99"
+  },
+  {
+    "id": 4,
+    "name": "Vanguard Booster Pack 04: Destined Showdown",
+    "detail": "Vanguard Booster Pack 04: Destined Showdown",
+    "coverimage": "src/img/Vanguard Booster Pack 04 Destined Showdown.jpg",
+    "price": "$29.99"
+  },
+  {
+    "id": 5,
+    "name": "Vanguard Booster Pack 05: Omniscient Awakening",
+    "detail": "Vanguard Booster Pack 05: Omniscient Awakening",
+    "coverimage": "src/img/Vanguard Booster Pack 05 Omniscient Awakening.jpg",
+    "price": "$29.99"
+  },
+  {
+    "id": 6,
+    "name": "Vanguard overDress: Festival Collection 2021",
+    "detail": "Vanguard overDress: Festival Collection 2021",
+    "coverimage": "src/img/Vanguard overDress Festival Collection 2021.jpg",
+    "price": "$29.99"
+  },
+  {
+    "id": 7,
+    "name": "Vanguard Special Series 02: Festival Collection 2022",
+    "detail": "Vanguard Special Series 02: Festival Collection 2022",
+    "coverimage": "src/img/Vanguard Special Series 02 Festival Collection 2022.jpg",
+    "price": "$29.99"
+  },
+  {
+    "id": 8,
+    "name": "Vanguard Special Series 03: Stride Deckset -Chronojet-",
+    "detail": "Vanguard Special Series 03: Stride Deckset -Chronojet-",
+    "coverimage": "src/img/Vanguard Special Series 03 Stride Deckset -Chronojet-.webp",
+    "price": "$29.99"
+  },
+  {
+    "id": 9,
+    "name": "Vanguard Special Series 04: Stride Deckset -Messiah-",
+    "detail": "Vanguard Special Series 04: Stride Deckset -Messiah-",
+    "coverimage": "src/img/Vanguard Special Series 04 Stride Deckset -Messiah-.jpg",
+    "price": "$29.99"
+  },
+  {
+    "id": 10,
+    "name": "Vanguard Special Series 05: Festival Booster 2023",
+    "detail": "Vanguard Special Series 05: Festival Booster 2023",
+    "coverimage": "src/img/Vanguard Special Series 05 Festival Booster 2023.jpg",
+    "price": "$29.99"
+  },
+  {
+    "id": 11,
+    "name": "Vanguard Special Series 06: Stand Up Deckset -Gramgrace-",
+    "detail": "Vanguard Special Series 06: Stand Up Deckset -Gramgrace-",
+    "coverimage": "src/img/Vanguard Special Series 06 Stand Up Deckset -Gramgrace-.webp",
+    "price": "$29.99"
+  },
+  {
+    "id": 12,
+    "name": "Vanguard Special Series 07: Stand Up Deckset -Favrneel-",
+    "detail": "Vanguard Special Series 07: Stand Up Deckset -Favrneel-",
+    "coverimage": "src/img/Vanguard Special Series 07 Stand Up Deckset -Favrneel-.jpg",
+    "price": "$29.99"
+  },
+  {
+    "id": 13,
+    "name": "Vanguard Special Series 08: Stand Up Deckset -Orfist-",
+    "detail": "Vanguard Special Series 08: Stand Up Deckset -Orfist-",
+    "coverimage": "src/img/Vanguard Special Series 08 Stand Up Deckset -Orfist-.jpg",
+    "price": "$29.99"
+  },
+  {
+    "id": 14,
+    "name": "Vanguard Special Series 09: Stride Deckset -Shiranui-",
+    "detail": "Vanguard Special Series 09: Stride Deckset -Shiranui-",
+    "coverimage": "src/img/Vanguard Special Series 09 Stride Deckset -Shiranui-.webp",
+    "price": "$29.99"
+  },
+  {
+    "id": 15,
+    "name": "Vanguard Special Series 10: Stride Deckset -Luard-",
+    "detail": "Vanguard Special Series 10: Stride Deckset -Luard-",
+    "coverimage": "src/img/Vanguard Special Series 10 Stride Deckset -Luard-.jpg",
+    "price": "$29.99"
+  }
+]
